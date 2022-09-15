@@ -1,4 +1,5 @@
 #https://www.youtube.com/watch?v=XGf2GcyHPhc
+#pip install turtle
 import turtle
 import winsound
 
