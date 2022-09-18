@@ -1,3 +1,5 @@
+#pip install pyinstaller
+#pyinstaller --onefile Game.py
 #pip install pygame
 import numpy as  np
 import pygame
